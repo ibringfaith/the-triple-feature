@@ -1,2 +1,1 @@
-# the-triple-feature
-Movie blog run by Faith, Hope, and Grace Best
+You can read the blog [here](https://ibringfaith.github.io/the-triple-feature/)
